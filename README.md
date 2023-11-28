@@ -33,4 +33,4 @@ Un juego simple hecho en Unity con Vulforia para reconocer planetas, verlos en 3
 
 
 ## Imagenes incluidas
-En la carpeta Imagenes moleculas estan disponibles todas las imagenes para imprimir y jugar con ellas!
+En la carpeta Imagenes estan disponibles todas las imagenes de los planetas para imprimir y jugar con ellas!
